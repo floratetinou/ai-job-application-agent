@@ -1,0 +1,7 @@
+# Les dépendances seront ajoutées au fur et à mesure.
+# Étape initiale : Python standard uniquement.
+# Dépendances envisagées plus tard : pytest, python-dotenv, streamlit,
+# pypdf, sentence-transformers ou API d'embeddings, faiss-cpu ou chromadb.
+openai
+python-dotenv
+ollama
