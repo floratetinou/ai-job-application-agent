@@ -2,6 +2,9 @@
 # Étape initiale : Python standard uniquement.
 # Dépendances envisagées plus tard : pytest, python-dotenv, streamlit,
 # pypdf, sentence-transformers ou API d'embeddings, faiss-cpu ou chromadb.
+
+streamlit
+pypdf
+ollama
 openai
 python-dotenv
-ollama
