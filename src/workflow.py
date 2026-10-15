@@ -2,8 +2,8 @@
 
 
 from pathlib import Path
-from llm_client import analyze_job_offer
-from cv_reader import extract_text_from_pdf
+from src.llm_client import analyze_job_offer
+from src.cv_reader import extract_text_from_pdf
 import re
 
 
